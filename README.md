@@ -112,6 +112,8 @@ Egg incubation is the process of maintaining the right environmental conditionsâ
 
 ## Components
 
+![Image](https://github.com/user-attachments/assets/7ca511a7-9418-452a-8ac1-9681b9dfff95)
+
 These connection are just for reference you can change them according to the code.
 - ### ATmega328p
   ![Image](https://github.com/user-attachments/assets/2eeb4396-6f14-4eb6-876a-9a3c26726f5f)
@@ -122,6 +124,7 @@ These connection are just for reference you can change them according to the cod
   ![Image](https://github.com/user-attachments/assets/f41f46b4-6191-4a9a-af0a-e5507ea9950b)
 - ### Liquid Crystal Display (LCD 16x2)
   ![Image](https://github.com/user-attachments/assets/f6da93af-b927-4967-ad6e-088fd4beb0a2)
+  ![Image](https://github.com/user-attachments/assets/f6b2f132-e359-475c-a9a7-bf358b5bfba2)
 - ### DS18B20 Temperature Sensors
   ![Image](https://github.com/user-attachments/assets/580cba61-69aa-45a2-9212-b368c21ccaca)
 - ### Relay Module (for Heat Control)
@@ -130,8 +133,6 @@ These connection are just for reference you can change them according to the cod
   ![Image](https://github.com/user-attachments/assets/a4f858b3-ada4-4e37-b7f3-46aec326eaa7)
 - ### Buttons for user input
   ![Image](https://github.com/user-attachments/assets/5357c363-6555-4236-96d6-2c65563d9abd)
-
-![Image](https://github.com/user-attachments/assets/7ca511a7-9418-452a-8ac1-9681b9dfff95)
 
 ---
 
