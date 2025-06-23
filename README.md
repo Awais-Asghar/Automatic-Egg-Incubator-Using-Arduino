@@ -203,6 +203,7 @@ The incubator system is centered around the **ATmega328P microcontroller**, inte
 - A chick was successfully hatched, validating system functionality
 
 ![Image](https://github.com/user-attachments/assets/44f192c2-ddd6-45dd-8de8-7ec6ac22b21f)
+![Image](https://github.com/user-attachments/assets/ea0f2511-4088-4387-bee0-5540fbca7e7f)
 ![Image](https://github.com/user-attachments/assets/0d8a36d4-95b3-4641-8c35-b7c1a2d172e2)
 
 ---
