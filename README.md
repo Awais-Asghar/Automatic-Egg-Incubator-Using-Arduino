@@ -121,9 +121,73 @@ Egg incubation is the process of maintaining the right environmental conditionsâ
 - Buzzer
 - Buttons for user input
 
+![Image](https://github.com/user-attachments/assets/7ca511a7-9418-452a-8ac1-9681b9dfff95)
 
+---
 
+## Methodology
 
+###  1. System Design
+
+The incubator system is centered around the **ATmega328P microcontroller**, interfacing with various sensors and actuators:
+
+![Image](https://github.com/user-attachments/assets/d90fe84c-6a07-45d5-b3a8-a6d8e5947d65)
+
+- **Sensors**  
+  - **DHT11**: Monitors temperature and humidity  
+  - **DS18B20**: Provides accurate temperature readings  
+
+- **Actuators**  
+  - **Stepper Motor**: Periodically rotates eggs  
+  - **Relay Module**: Controls the heating element  
+  - **Buzzer**: Alerts when environmental conditions are abnormal  
+
+- **Display**  
+  - **16x2 LCD**: Shows real-time temperature and humidity readings  
+
+---
+
+### 2. Control Logic (Firmware)
+
+- Developed using **Arduino IDE (C++)**
+- Continuously reads sensor values
+- Performs:
+  - **Heating control** via relay
+  - **Humidity regulation**
+  - **Egg rotation**
+  - **Error alerting** using a buzzer
+  - **LCD updates** for user feedback
+    
+![Image](https://github.com/user-attachments/assets/9130fd8f-160c-43e8-a60c-e784da22833d)
+
+---
+
+### 3. Modes of Operation
+
+- **Normal Mode**: Active monitoring and control
+- **Hatch Mode**: Activated via button; disables rotation and adjusts humidity thresholds
+- **Calibration Mode**: Allows for setup adjustments and visual feedback
+
+---
+
+### 4. Hardware Setup
+
+- Components connected via breadboard 
+- Reliable power supply to run sensors, display, motor, and controller
+
+![Image](https://github.com/user-attachments/assets/4b49fe11-582e-43b0-baa5-e2a79918d0a0)
+
+---
+
+### 5. Testing & Validation
+
+- System tested using a **pigeon egg**
+- Environmental conditions were successfully maintained
+- A chick was successfully hatched, validating system functionality
+
+![Image](https://github.com/user-attachments/assets/44f192c2-ddd6-45dd-8de8-7ec6ac22b21f)
+
+---
 
 ## Demo Video
 https://github.com/user-attachments/assets/74fe12b2-0fb4-42b3-a45b-664a12b02d2b
