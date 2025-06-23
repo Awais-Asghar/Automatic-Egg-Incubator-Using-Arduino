@@ -153,6 +153,5 @@ The "Fully Automated Egg Incubator" is a microcontroller-based system designed t
 
 This project is licensed under the MIT License. Feel free to modify and distribute as per the license terms.
 
-## Acknowledgments
-
-Special thanks to the contributors of the libraries used in this project.
+## Demo Video
+https://github.com/user-attachments/assets/74fe12b2-0fb4-42b3-a45b-664a12b02d2b
