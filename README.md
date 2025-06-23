@@ -22,7 +22,20 @@ The "Fully Automated Egg Incubator" is a microcontroller-based system designed t
 
 ---
 
-## Features 
+## What Is the Egg Incubation Process?
+Egg incubation is the process of maintaining the right environmental conditions—primarily temperature, humidity, and egg turning—to allow an embryo to develop into a chick (or another bird) inside the egg until it hatches.
+
+![Image](https://github.com/user-attachments/assets/e0e6ea05-133f-46ab-87ef-ac9f9b37459c)
+
+---
+
+## Traditional Incubator
+![Image](https://github.com/user-attachments/assets/e8f0fd30-ac76-42cf-8627-12433b4fd207)
+
+---
+
+
+## Features of this incubator
 
 1. **Automatic Egg Rotation**
    - Uses a **stepper motor** to rotate eggs periodically.
@@ -67,7 +80,8 @@ The "Fully Automated Egg Incubator" is a microcontroller-based system designed t
 10. **Real Environment Tested**
     - Successfully incubated and hatched a **pigeon's egg**.
     - Validated under **real-world** conditions (not just simulated).
-   
+
+![Image](https://github.com/user-attachments/assets/caefbc83-3e48-471e-90f0-65d48f9bbe03)
     ---
 
 ## Components
