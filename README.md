@@ -1,4 +1,4 @@
-# Fully Automated Egg Incubator
+![image](https://github.com/user-attachments/assets/12fefdad-880c-4fe8-93db-5c1d0ad95ebc)# Fully Automated Egg Incubator
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-ATmega328P-blue.svg)
@@ -112,20 +112,24 @@ Egg incubation is the process of maintaining the right environmental conditions�
 
 ## Components
 
-- Arduino
-- DHT11 Temperature and Humidity Sensor
-- Stepper Motor and Driver
-- Liquid Crystal Display (LCD 16x2)
-- OneWire Temperature Sensors
-- Relay Module
+- ATmega328P / Arduino Uno board
+- DHT11 sensor (temperature & humidity)
+- DS18B20 temperature sensor
+- Stepper motor + driver module (e.g., A4988)
+- Relay module (to control heater)
 - Buzzer
-- Buttons for user input
+- 16x2 LCD (with or without I2C)
+- Push buttons
+- Jumper wires, breadboard
+- 12V DC power supply or equivalent
 
 ![Image](https://github.com/user-attachments/assets/7ca511a7-9418-452a-8ac1-9681b9dfff95)
 
 ---
 
 ## Methodology
+
+![Image](https://github.com/user-attachments/assets/9595a17c-1a7f-4716-8061-4bc5b5beaceb)
 
 ###  1. System Design
 
@@ -175,6 +179,19 @@ The incubator system is centered around the **ATmega328P microcontroller**, inte
 - Components connected via breadboard 
 - Reliable power supply to run sensors, display, motor, and controller
 
+| Component           | Arduino Pin     |
+|--------------------|-----------------|
+| DHT11              | Pin 13          |
+| DS18B20            | Pin 2           |
+| LCD (rs–d7)        | Pins 12–6       |
+| Stepper Motor      | Pins 3–5        |
+| Relay              | A1              |
+| Buzzer             | A0              |
+| Button             | A2              |
+| Hatch Trigger      | A3              |
+| Delay Jumper       | Pin 7           |
+
+
 ![Image](https://github.com/user-attachments/assets/4b49fe11-582e-43b0-baa5-e2a79918d0a0)
 
 ---
@@ -186,8 +203,9 @@ The incubator system is centered around the **ATmega328P microcontroller**, inte
 - A chick was successfully hatched, validating system functionality
 
 ![Image](https://github.com/user-attachments/assets/44f192c2-ddd6-45dd-8de8-7ec6ac22b21f)
+![Image](https://github.com/user-attachments/assets/0d8a36d4-95b3-4641-8c35-b7c1a2d172e2)
 
 ---
 
-## Demo Video
+## Results
 https://github.com/user-attachments/assets/74fe12b2-0fb4-42b3-a45b-664a12b02d2b
