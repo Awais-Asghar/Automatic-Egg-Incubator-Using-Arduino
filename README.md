@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/12fefdad-880c-4fe8-93db-5c1d0ad95ebc)# Fully Automated Egg Incubator
+# Fully Automated Egg Incubator
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-ATmega328P-blue.svg)
