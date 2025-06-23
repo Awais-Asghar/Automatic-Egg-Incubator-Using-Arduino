@@ -34,7 +34,6 @@ Egg incubation is the process of maintaining the right environmental conditionsâ
 
 ---
 
-
 ## Features of this incubator
 
 1. **Automatic Egg Rotation**
