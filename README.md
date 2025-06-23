@@ -1,4 +1,4 @@
-![Button](https://github.com/user-attachments/assets/3a4ae107-c30e-490c-b6f3-63bc2ef18d56)![LCD ](https://github.com/user-attachments/assets/8091ef62-ff8a-47ec-9b5f-8b75a0025125)# Fully Automated Egg Incubator
+# Fully Automated Egg Incubator
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-ATmega328P-blue.svg)
@@ -70,26 +70,6 @@ The "Fully Automated Egg Incubator" is a microcontroller-based system designed t
    
     ---
 
-## Components
-These connection are just for reference you can change them according to the code.
-- ### ATmega328p
-  ![Image](https://github.com/user-attachments/assets/2eeb4396-6f14-4eb6-876a-9a3c26726f5f)
-  ![Image](https://github.com/user-attachments/assets/95c6d1ef-5f4f-4b47-8f9e-3956bcee5414)
-- ### DHT11 Temperature and Humidity Sensor
-  ![Image](https://github.com/user-attachments/assets/8716d9d8-ef06-44cb-8f0b-82499b7bb45b)
-- ### Stepper Motor and Driver
-  ![Image](https://github.com/user-attachments/assets/f41f46b4-6191-4a9a-af0a-e5507ea9950b)
-- ### Liquid Crystal Display (LCD 16x2)
-  ![Image](https://github.com/user-attachments/assets/f6da93af-b927-4967-ad6e-088fd4beb0a2)
-- ### DS18B20 Temperature Sensors
-  ![Image](https://github.com/user-attachments/assets/580cba61-69aa-45a2-9212-b368c21ccaca)
-- ### Relay Module
-  ![Image](https://github.com/user-attachments/assets/30649239-22cd-4fac-bbd9-525ff042ec82)
-- ### Buzzer
-  ![Image](https://github.com/user-attachments/assets/a4f858b3-ada4-4e37-b7f3-46aec326eaa7)
-- ### Buttons for user input
-  ![Image](https://github.com/user-attachments/assets/5357c363-6555-4236-96d6-2c65563d9abd)
-  
 ## Pin Configuration
 
 ### Stepper Motor Control
