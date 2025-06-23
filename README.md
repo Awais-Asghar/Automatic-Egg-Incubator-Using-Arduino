@@ -69,8 +69,8 @@ Egg incubation is the process of maintaining the right environmental conditions�
 
 2. **Temperature Monitoring and Control**
    - Dual temperature sensors:
-     - **DS18B20** for high-precision temperature readings.
-     - **DHT11** for basic temperature and humidity data.
+   - **DS18B20** for high-precision temperature readings.
+   - **DHT11** for basic temperature and humidity data.
    - Controls a **heating element** via a relay to maintain temperature between **36–40°C**.
 
 3. **Humidity Monitoring and Control**
@@ -83,8 +83,8 @@ Egg incubation is the process of maintaining the right environmental conditions�
 
 5. **Alert System (Buzzer)**
    - Sounds an alarm if:
-     - Temperature goes outside **35–41°C**.
-     - Humidity falls outside **45–70%**.
+   - Temperature goes outside **35–41°C**.
+   - Humidity falls outside **45–70%**.
    - Ensures fast response to critical conditions.
 
 6. **Manual Control Option**
