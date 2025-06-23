@@ -25,6 +25,33 @@ The "Fully Automated Egg Incubator" is a microcontroller-based system designed t
 ## What Is the Egg Incubation Process?
 Egg incubation is the process of maintaining the right environmental conditions—primarily temperature, humidity, and egg turning—to allow an embryo to develop into a chick (or another bird) inside the egg until it hatches.
 
+### Key Elements of the Incubation Process
+
+| Parameter       | Ideal Range (for chickens)                 | Purpose                                                                 |
+|----------------|---------------------------------------------|-------------------------------------------------------------------------|
+| **Temperature** | 37.5°C ± 0.5°C (99.5°F)                    | Supports proper embryonic development                                  |
+| **Humidity**    | 50–55% (first 18 days), 65–70% (last 3 days)| Prevents dehydration or overhydration; aids in successful hatching     |
+| **Turning Eggs**| 3–5 times daily (until day 18)              | Prevents the embryo from sticking to the shell and ensures even growth |
+| **Ventilation** | Fresh air is crucial                        | Embryo requires oxygen and produces CO₂                                 |
+| **Incubation Duration** | ~21 days for chicken eggs              | Varies by species (e.g., 28 days for ducks, 17 days for pigeons)       |
+
+### Stages of the Incubation Process
+
+1. **Day 1–7: Embryo Formation**
+   - Heartbeat begins  
+   - Circulatory system forms  
+
+2. **Day 8–14: Organ Development**
+   - Beak, feathers, and limbs form  
+
+3. **Day 15–18: Final Development**
+   - Embryo takes up most of the egg space  
+   - Turning is stopped after Day 18  
+
+4. **Day 19–21: Hatching Period**
+   - Chick moves into hatching position  
+   - Breaks shell using egg tooth
+     
 ![Image](https://github.com/user-attachments/assets/e0e6ea05-133f-46ab-87ef-ac9f9b37459c)
 
 ---
